@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
   },
   item: {
     margin: 10,
-    backgroundColor: '#4ae1fa',
+    backgroundColor: 'black',
     justifyContent: 'center',
     alignItems: 'center',
   },
