@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958219780206",
+    "project_id": "app-noti-test",
+    "storage_bucket": "app-noti-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958219780206:android:7655db57bb2ab46463a67f",
+        "android_client_info": {
+          "package_name": "com.rncliapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958219780206-v105etk70bg3bhd59t6uc8n5hjoph38m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRSKleZGK4Gp3WDKF58j3sjcKzdThmu-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958219780206-v105etk70bg3bhd59t6uc8n5hjoph38m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
